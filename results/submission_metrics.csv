@@ -1,0 +1,5 @@
+model,params_M,GFLOPs,imgps_MPS
+UW-MambaRet,1.256,0.427,33.9
+ResNet50,24.033,,336.6
+MobileNetV3-L,3.218,,1214.1
+ViT-B/16,85.996,,105.0
